@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+ 
+    <RadioGroup
+        android:id="@+id/mallGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+ 
+        <RadioButton
+            android:id="@+id/conestogaradio_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/conestoga_radio" 
+            android:checked="true" />
+ 
+        <RadioButton
+            android:id="@+id/fairviewradio_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/fairview_radio" />
+        
+        <RadioButton
+            android:id="@+id/uptownradio_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/uptown_radio" />
+ 
+    </RadioGroup>
+ 
+    <Button
+        android:id="@+id/btnDisplay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical|center_horizontal|left"
+        android:text="@string/mallselectbutton" />
+ 
+</LinearLayout>

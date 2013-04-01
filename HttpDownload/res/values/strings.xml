@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smart Advertisement</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="desc">descp</string>
+
+    <!-- Strings for welcome activity -->
+    <string name="welcome">Welcome to the Smart Advertisement App</string>
+    <string name="welcome1">Welcome!</string>
+    <string name="welcome2">To the Smart Advertisement App</string>
+    <string name="welcome_button">Goto App</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+
+    <!-- Strings for mall view -->
+    <string name="title_activity_mall_view">MallViewActivity</string>
+
+    <string-array name="mall_names">
+        <item>Conestoga Mall</item>
+        <item>Fairview Mall</item>
+        <item>Uptown Waterloo</item>
+    </string-array>
+
+    <string name="mall_prompt">Select Mall</string>
+    <string name="title_activity_mall_map_display">MallMapDisplayActivity</string>
+    <string name="title_activity_conestoga_map_view">ConestogaMapView</string>
+    <string name="title_activity_fair_view_map_view">FairViewMapView</string>
+    <string name="title_activity_uptown_map_view">UptownMapView</string>
+    <string name="title_activity_mainactivity">MainActivity</string>
+    <string name="title_activity_detailactivity">DetailActivity</string>
+
+    <!-- Strings for mall view with radio buttons -->
+    <string name="mall_view_title">Please select the mall you are currently at</string>
+    <string name="conestoga_radio">Conestoga mall</string>
+    <string name="fairview_radio">Fairview mall</string>
+    <string name="uptown_radio">Uptown mall</string>
+    <string name="mallselectbutton">Select mall</string>
+
+    <!-- Strings for conestoga mall map view -->
+    <string name="viewads_button">View Ads</string>
+    <string name="conestoga_map_desc">Conestoga Map</string>
+    <string name="title_activity_mall_view_activity_two">MallViewActivityTwo</string>
+    <string name="title_activity_view_conestoga_ads">ViewConestogaAds</string>
+    <string name="title_activity_view_fair_view_ads">ViewFairViewAds</string>
+    <string name="title_activity_view_uptown_ads">ViewUptownAds</string>
+    
+    <string name="fairview_map_desc">Fairview Map</string>
+    <string name="uptown_map_desc">Uptown Map</string>
+
+</resources>

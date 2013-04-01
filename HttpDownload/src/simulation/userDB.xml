@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<category>
+	<CLOTHES>0</CLOTHES>
+	<TECHNOLOGY>1</TECHNOLOGY>
+	<FOOD>3</FOOD>
+	<SHOES>2</SHOES>
+	<JEWELLERY>5</JEWELLERY>
+</category>
+
+<userInfo>
+	<id>1</id>
+	<name>Will</name>
+	<surname>Sawyer</surname>		    
+</userInfo>
